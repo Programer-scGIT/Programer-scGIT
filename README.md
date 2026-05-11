@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я Programer-scGIT! 👋
 
-<!--
-**Programer-scGIT/Programer-scGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+### Мой стек технологий:
+![JavaScript](https://shields.io)
+![C#](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![WebStorm](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Моя статистика:
+![Статистика GitHub](https://vercel.app)
+
+---
+*Рад знакомству! Заглядывайте в мои репозитории.*
