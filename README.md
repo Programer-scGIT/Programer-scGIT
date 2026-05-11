@@ -1,10 +1,18 @@
-# Привет, я Programer-scGIT! 👋
+<h1 align="center">Привет, я Programer-scGIT! 👋</h1>
 
-![Typing SVG](https://herokuapp.com)
+<p align="center">
+  <img src="https://herokuapp.com" />
+</p>
 
-### Мой стек технологий:
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<h3>Мой стек технологий:</h3>
+<p>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-
-### Моя статистика:
-![Статистика GitHub](https://vercel.app)
+<h3>Моя статистика:</h3>
+<p align="center">
+  <img src="https://vercel.app" />
+</p>
