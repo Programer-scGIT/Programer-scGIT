@@ -23,3 +23,6 @@ I'm a beginner developer from Russia. I'm currently diving deep into the world o
 
 ---
 *Рад знакомству! / Nice to meet you!*
+
+Habr - [![Habr](https://shields.io)](https://habr.com/ru/sandbox/284734/)
+
