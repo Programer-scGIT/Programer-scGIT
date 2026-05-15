@@ -25,7 +25,7 @@ I'm a beginner developer from Russia. I'm currently diving deep into the world o
 *Рад знакомству! / Nice to meet you!*
 
 <p align="center">
-  <a href="https://habr.com" target="_blank" style="text-decoration: none;">
+  <a href="https://habr.com/ru/sandbox/284734/" target="_blank" style="text-decoration: none;">
     <strong>🌐 [ Читать мою статью про Language Study на Хабре ]</strong>
   </a>
 </p>
