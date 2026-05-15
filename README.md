@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./github-header-banner.png" alt="Мой Баннер" width="100%">
+</p>
+
+
+
 # Привет! Я Programer-scGIT 👋
 # Hi! I'm Programer-scGIT 👋
 
