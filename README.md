@@ -1,6 +1,6 @@
 
 
-# Привет! Я Programer-scGIT 👋
+# Привет! Я Programer-scGIT 👋 ТИМОФЕЙ ИЗ ЗУМА
 # Hi! I'm Programer-scGIT 👋
 
 ### 🇷🇺 Обо мне
